@@ -1,0 +1,5 @@
+name = str(input("Enter your name: "))
+age = int(input("Enter your age: "))
+location = str(input("Enter your location: "))
+interest = str(input("Enter your interest: "))
+print(f"Hello, Everyone my name is {name} and i am {age} years old.\nI am from {location} and I am interested in {interest}.")
